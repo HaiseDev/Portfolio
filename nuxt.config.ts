@@ -14,7 +14,7 @@ export default defineNuxtConfig({
 	},
 	app: {
 		head: {
-			title: 'Sofia Mabel',
+			title: 'Haise',
 			htmlAttrs: { lang: 'en' },
 			link: [
 				{ rel: 'canonical', href: 'https://prxsphy.xyz/' },
@@ -81,10 +81,10 @@ export default defineNuxtConfig({
 				},
 				{ property: 'og:email', content: 'mishudiscord@gmail.com' },
 				{ property: 'og:locale', content: 'en_US' },
-				{ property: 'og:site_name', content: 'Sofia Mabel' },
-				{ property: 'og:title', content: 'Home | Sofia Mabel' },
+				{ property: 'og:site_name', content: 'Haise' },
+				{ property: 'og:title', content: 'Home | Haise' },
 				{ property: 'og:type', content: 'website' },
-				{ property: 'og:url', content: 'https://mishu.dev' },
+				{ property: 'og:url', content: 'https://haisee.xyz' },
 				{ property: 'og:image', content: '/owo.webp' }
 			]
 		}
