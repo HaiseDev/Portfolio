@@ -12,9 +12,9 @@ export const useUser = () => {
 		listening_to_spotify: false,
 		kv: {},
 		discord_user: {
-			username: 'mabeoff',
+			username: 'haise.dev',
 			public_flags: 0,
-			id: '565651683250536459',
+			id: '905274054045466644',
 			discriminator: '0',
 			bot: false,
 			avatar: ''
