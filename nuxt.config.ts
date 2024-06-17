@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 	modules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode'],
 	runtimeConfig: {
 		public: {
-			DISCORD_USER_ID: '565651683250536459'
+			DISCORD_USER_ID: '905274054045466644'
 		}
 	},
 	colorMode: {
