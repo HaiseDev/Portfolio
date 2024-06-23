@@ -19,7 +19,7 @@ export const useUser = () => {
 			bot: false,
 			avatar: ''
 		},
-		discord_status: 'offline',
+		discord_status: 'online',
 		activities: [],
 		active_on_discord_web: false,
 		active_on_discord_mobile: false,
