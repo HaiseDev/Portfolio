@@ -3,7 +3,8 @@ export default defineNuxtConfig({
 	modules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode'],
 	runtimeConfig: {
 		public: {
-			DISCORD_USER_ID:'905274054045466644'
+			
+		   DISCORD_USER_ID:'905274054045466644'
 		}
 	},
 	colorMode: {
@@ -17,7 +18,7 @@ export default defineNuxtConfig({
 			title: 'Haise',
 			htmlAttrs: { lang: 'en' },
 			link: [
-				{ rel: 'canonical', href: 'https://prxsphy.xyz/' },
+				{ rel: 'canonical', href: 'https:haise.xyz' },
 				{ rel: 'icon', href: '/owo.webp' },
 				{ rel: 'preconnect', href: 'https://cdn.discordapp.com' }
 				// <link rel="preload" as="image" href="img.png" />
@@ -40,7 +41,7 @@ export default defineNuxtConfig({
 				{ name: 'theme-color', content: '#C4EEFF' },
 				{
 					name: 'description',
-					content: "Sofia Mabel's personal website and portfolio"
+					content: " personal website and portfolio"
 				},
 				{
 					name: 'viewport',
