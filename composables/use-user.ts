@@ -3,13 +3,13 @@ import type { GatewayActivity } from 'discord-api-types/v10';
 export const useUser = () => {
 	return useState<LanyardUser>('user', () => ({
 		spotify: {
-			track_id: '',
-			song: '',
-			artist: '',
-			album_art_url: '',
-			album: ''
+			track_id: '3f3FDZajRpcLQGln7OZqdi?si=7f32bf6f56294906',
+			song: 'asphyxia',
+			artist: 'Cö Shu Nie',
+			album_art_url: 'https://open.spotify.com/embed/album/2oTP6o5ggDbudTzSvxiD6x?utm_source=generator',
+			album: 'PURE'
 		},
-		listening_to_spotify: false,
+		listening_to_spotify: true,
 		kv: {},
 		discord_user: {
 			username: 'haise.dev',
